@@ -60,16 +60,16 @@ This makes the personalization genuine — the model is reasoning about taste pa
 *(Add your screenshots below — drag and drop directly into this file when editing on GitHub, or reference an `/screenshots` folder)*
 
 **1. Cook Now — typing ingredients and generating a recipe**
-![Cook Now tab](screenshots/cook-now.png)
+![Cook Now tab](screenshots/cook-now.PNG)
 
 **2. Snap & Cook — detecting ingredients from a fridge photo**
-![Snap and Cook tab](screenshots/snap-and-cook.png)
+![Snap and Cook tab](screenshots/snap-and-cook.PNG)
 
 **3. For You — a personalized recommendation based on favorites**
-![For You tab](screenshots/for-you.png)
+![For You tab](screenshots/for-you.PNG)
 
 **4. My Recipes — favorites and history**
-![My Recipes tab](screenshots/my-recipes.png)
+![My Recipes tab](screenshots/my-recipes.PNG)
 
 ## ⚙️ How to Run This Project Locally
 
